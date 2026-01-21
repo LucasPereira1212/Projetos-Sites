@@ -35,7 +35,7 @@ function createModel(data) {
               </h3>
               <div id="movie-cast">
                 <h4>Elenco:</h4>
-                <h5>${data.Actores}</h5>
+                <h5>${data.Actors}</h5>
               </div>
               <div id="movie-genre">
                 <h4>Gênero:</h4>
