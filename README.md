@@ -15,3 +15,5 @@ Link do projeto Cronômetro: https://lucaspereira1212.github.io/Cronometro-com-c
 Link do projeto Clinica com classes: https://lucaspereira1212.github.io/ProjetoClinicaMedica-com-Class
 
 Link do projeto Calculadora de Investimento: https://calculadora-de-investimento.netlify.app
+
+Link do projeto de Lista de Tarefas: https://lista-de-tarefas-com-react.netlify.app/
