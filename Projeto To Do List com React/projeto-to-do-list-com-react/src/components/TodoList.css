@@ -1,0 +1,13 @@
+.todo-list {
+  display: flex;
+  flex-flow: column;
+  gap: 12px;
+}
+
+.empty-message {
+  text-align: center;
+  color: #7f8c8d;
+  font-style: italic;
+  padding: 40px 20px;
+  font-size: 18px;
+}
